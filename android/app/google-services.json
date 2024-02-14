@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "824690229854",
+    "project_id": "deep-b87b0",
+    "storage_bucket": "deep-b87b0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:824690229854:android:3a8d2159749f1708a7aacf",
+        "android_client_info": {
+          "package_name": "com.example.testing_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSjoTx0a1R5e2X6F8UvIFHbcNB26sKMd0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
